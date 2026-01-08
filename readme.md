@@ -1,4 +1,6 @@
 # MyTalentList
+# link [Releases curseforge](https://legacy.curseforge.com/wow/addons/talents-list)
+
 
 **MyTalentList** is a World of Warcraft addon designed to export your character's current build (Talents, Spellbook, and Tier Sets) into a clean, spreadsheet-ready **CSV format**.
 
