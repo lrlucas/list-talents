@@ -1,8 +1,8 @@
-## Interface: 110007
-## Title: Mi Lista de Talentos
+## Interface: 120000
+## Title: My talents to CSV
 ## Notes: Export talents, tier sets, and spellbook to CSV.
 ## Author: Lucas Suarez Blanco
-## Version: 1.0.0
+## Version: 1.0.1
 ## SavedVariables:
 
 MyTalentList.lua
